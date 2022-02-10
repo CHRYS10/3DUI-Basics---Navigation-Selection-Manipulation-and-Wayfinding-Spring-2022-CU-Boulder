@@ -17,4 +17,5 @@ Control list (can be found in comments of CI_selection.cs file as well):
 - G key: manipulate selected GameObject's rotation (clockwise)
 
 Author: Christen Malloy 
+
 Submitted (02/10/2022)
